@@ -2,7 +2,7 @@
 % matrix completion problems
 
 % We acknowledge support from RSCA (Research, Scholarship, and Creative
-% Activities Program) 2016-2017 funding support at Cal Poly Pomona
+% Activities Program) 2016-2017 at Cal Poly Pomona
 
 % [U,D,V]=randomized_rrsvd(A,k,tau,p,np,doReuse,preV,r)
 %     A rank revealing randomized singular value decomposition algorithm
